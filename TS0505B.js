@@ -23,4 +23,5 @@ const definition = {
     extend: extend.light_onoff_brightness_colortemp_color(),
 };
 
+
 module.exports = definition;
